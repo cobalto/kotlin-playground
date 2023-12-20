@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kotlinweek
+template:
+  greeting:
+    message: "Hello, %s!"
+    log: "%s will receive the #%s greeting!"
